@@ -1,4 +1,4 @@
-<img src="./githubbanner.png">
+<img src="./githubbanner.png" width = 100%>
 
 
 # Sobre mí
