@@ -1,4 +1,6 @@
-<img src="./githubbanner.png" width = 100% height = 100%>
+## "La paciencia es una virtud"
+
+<img src="./gt.png">
 
 
 # Sobre mí
