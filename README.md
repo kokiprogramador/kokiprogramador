@@ -1,5 +1,3 @@
-## "La paciencia es una virtud"
-
 <img src="./gt.png">
 
 
